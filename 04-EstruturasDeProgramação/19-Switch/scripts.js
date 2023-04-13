@@ -1,6 +1,6 @@
 let nome = "Wemerson";
 
-switch(nome) {
+switch (nome) {
   case "Wemerson":
     console.log("O Nome é Wemerson");
     break;

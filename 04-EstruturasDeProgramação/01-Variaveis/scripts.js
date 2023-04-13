@@ -16,10 +16,12 @@ laranja = 823;
 
 console.log(laranja);
 
-laranja= "Laranja";
+laranja = "Laranja";
 
 console.log(laranja);
 
-let um = 1, dois = 2, tres = 3;
+let um = 1,
+  dois = 2,
+  tres = 3;
 
 console.log(um + dois + tres);

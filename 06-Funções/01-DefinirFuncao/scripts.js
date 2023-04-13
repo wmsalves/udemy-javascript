@@ -11,7 +11,6 @@ function imprimirUmNumero(num) {
 imprimirUmNumero(5);
 imprimirUmNumero(10);
 
-
 const numeroAleatorio = function () {
   console.log(Math.random());
 };

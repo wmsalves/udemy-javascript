@@ -1,5 +1,5 @@
 let nome3 = "Correto 1";
-let $nome = 'Correto 2';
+let $nome = "Correto 2";
 let _nome = "Correto 3";
 // let @nome = "Erro 4";
 // let !nome = "Erro 5";

@@ -1,4 +1,4 @@
-function imprimeIdade(idade){
+function imprimeIdade(idade) {
   console.log(`Você tem ${idade} anos de idade`);
 }
 

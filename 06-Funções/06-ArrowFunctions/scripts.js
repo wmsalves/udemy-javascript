@@ -1,11 +1,11 @@
 let consoleTest = () => {
-  console.log("Teste Arrow Function")
+  console.log("Teste Arrow Function");
 };
 
 consoleTest();
 
-let soma = (a,b) => {
+let soma = (a, b) => {
   return a + b;
-}
+};
 
-console.log(soma(25,25));
+console.log(soma(25, 25));
