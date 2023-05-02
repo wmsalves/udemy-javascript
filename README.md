@@ -9,9 +9,6 @@ Contendo 382 aulas com duração total de 23horas e 39minutos
 
 
 
-
-Contendo 382 aulas com duração total de 23horas e 39minutos
-
 1. JavaScript do básico ao avançado
 2. Lógica de programação com base em JS
 3. Orientação a objetos no JavaScript
