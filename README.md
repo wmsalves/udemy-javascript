@@ -1,8 +1,14 @@
 <h1 align="center"> JavaScript Completo </h1>
 
+<p align="center">
+Repositório referente ao curso do @Matheus Batisti disponibilizado no Udemy: 
+JavaScript do básico ao avançado (c/ Node.js e projetos), Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express:
+  
+Contendo 382 aulas com duração total de 23horas e 39minutos
+</p>
 
 
-Repositório referente ao curso do @Matheus Batisti disponibilizado no Udemy: JavaScript do básico ao avançado (c/ Node.js e projetos), Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express:
+
 
 Contendo 382 aulas com duração total de 23horas e 39minutos
 
