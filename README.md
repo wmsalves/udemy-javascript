@@ -2,7 +2,7 @@
 
 <p align="center">
 Repositório referente ao curso do @Matheus Batisti disponibilizado no Udemy: 
-JavaScript do básico ao avançado (c/ Node.js e projetos), Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express(https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/)
+[JavaScript do básico ao avançado (c/ Node.js e projetos), Aprenda tudo sobre JavaScript(ES6+), lógica de prog., orientação a objetos, crie projetos para web com Node.js e Express](https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/)
 </p>
 
 <p align="center">
