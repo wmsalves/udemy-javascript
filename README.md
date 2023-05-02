@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript Completo </h1>
+<h1 align="center"> 🚀 JavaScript Completo </h1>
 
 <p align="center">
 Repositório referente ao curso do @Matheus Batisti disponibilizado no Udemy: 
@@ -9,8 +9,7 @@ Repositório referente ao curso do @Matheus Batisti disponibilizado no Udemy:
 Contendo 382 aulas com duração total de 23horas e 39minutos
 </p>
 
-
-
+<p align="center">
 1. JavaScript do básico ao avançado
 2. Lógica de programação com base em JS
 3. Orientação a objetos no JavaScript
@@ -19,3 +18,4 @@ Contendo 382 aulas com duração total de 23horas e 39minutos
 6. Programação de eventos e DOM com JS
 7. Criar aplicações web completas
 8. Expressão regular com JavaScript
+</p>
